@@ -2,7 +2,7 @@
 Trabalhos da Disciplina de POO - CCF 313
 Gabriel Miranda - 3857
 
-#Exemplo do MVC
+# Exemplo do MVC
 Modelo, Visão e Controle, aliado ao DAO-Persistência.
 
 # Trabalho 1
