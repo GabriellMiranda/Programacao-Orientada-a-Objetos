@@ -10,3 +10,6 @@ Adaptação a tecnologia java, lista de execícios.
 
 # Trabalho 2
 Implementação de classes, uso de um classe Funcionário, para implementar a folha de pagamento
+
+# Trabalho 3
+Aplicação dos conceitos de Herança
