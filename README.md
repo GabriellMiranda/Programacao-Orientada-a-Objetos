@@ -13,3 +13,6 @@ Implementação de classes, uso de um classe Funcionário, para implementar a fo
 
 # Trabalho 3
 Aplicação dos conceitos de Herança
+
+# Trabalho 4
+Utilização de polimorfismo e tratamento de execeções
